@@ -1,0 +1,9 @@
+/Users/baochenchen/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/baochenchen/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-g++ -G Ninja -S /Users/baochenchen/Documents/DMA_exercise -B /Users/baochenchen/Documents/DMA_exercise/cmake-build-debug
+-- The C compiler identification is GNU 13.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /opt/homebrew/bin/arm-none-eabi-gcc
+-- The CXX compiler identification is GNU 13.3.1
+Build type: Debug
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/baochenchen/Documents/DMA_exercise/cmake-build-debug
